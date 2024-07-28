@@ -1,1 +1,4 @@
-Sitio web laboratorio 3
+# Laboratorio #3
+
+Sitio web simple diseñado con HTML, CSS y JS
+
